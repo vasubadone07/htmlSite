@@ -1,0 +1,21 @@
+.categories{
+    border:1px #ccc solid ;
+    padding: 10px;
+    border-radius: 15px;
+}
+.categories h2{
+text-align: center;
+}
+.categories li{
+    padding-bottom: 15px;
+    border-bottom: dotted 2px #333333;
+}
+h1{
+    color: blue;
+}
+div p{
+    color: blueviolet;
+}
+p{
+    color: brown;
+}

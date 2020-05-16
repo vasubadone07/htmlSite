@@ -1,0 +1,49 @@
+body{
+    background-color: khaki;
+}
+h1{
+    color: crimson;
+    font-style: oblique;
+}
+  div p{
+    color:brown;
+    height: 60px;
+    font-style: italic;
+    font-size: x-large;
+}
+.box-1{
+    color: black;
+    font-size: x-large;
+    font-style: italic;
+    background-color:coral
+}
+.box-2{
+    color:black
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-decoration:underline;
+    font-style:italic;
+    
+}
+.container{
+    width: 90%;
+    margin: auto;
+    
+}
+.box-3{
+    color: black;
+    font-size: x-large;
+    font-style: italic;
+    border-top: brown;
+    border-left: 5px cyan;
+}
+.box-4{
+    border-right: 5px blueviolet solid;
+    border-left: 5px blue solid
+
+
+.box-5{
+
+    color: blue;
+}
+
+
